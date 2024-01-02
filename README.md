@@ -1,7 +1,3 @@
-```
-Name :- Rajalakshmi R
-Reg no :- 23013958
-```
 # Exp-02 Implementation of combinational logic
  
 ## AIM :-
